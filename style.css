@@ -498,7 +498,9 @@ header .navbar{
         top: 30px;
     }
         .navbar #menu-open-button{
-            color: var(--white-color);
+        color: var(--white-color);
+        border-radius: var(--border-radius-s);
+        background: var(--border-radius-m);
         }
 
     .navbar .nav-menu{
